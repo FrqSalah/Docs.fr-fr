@@ -21,7 +21,7 @@ ms.lasthandoff: 11/10/2017
 
 Par [Steve Smith](https://ardalis.com/)
 
-Prend en charge par ASP.NET Core [injection de dépendance](xref:fundamentals/dependency-injection) dans les vues. Cela peut être utile pour les services spécifiques à la vue, telles que la localisation ou les données requises pour le remplissage d’éléments de la vue. Vous devez tenter de mettre à jour [séparation des préoccupations](http://deviq.com/separation-of-concerns/) entre vos contrôleurs et les vues. La plupart de vos affichages de données doit être passée à partir du contrôleur.
+L'ASP.NET Core supporte l'[injection de dépendance](xref:fundamentals/dependency-injection) dans les vues. Cela peut être utile pour les services spécifiques à la vue, telles que la localisation ou les données requises pour le remplissage d’éléments de la vue. Vous devez tenter de mettre à jour [séparation des préoccupations](http://deviq.com/separation-of-concerns/) entre vos contrôleurs et les vues. La plupart de vos affichages de données doit être passée à partir du contrôleur.
 
 [Affichez ou téléchargez l’exemple de code](https://github.com/aspnet/Docs/tree/master/aspnetcore/mvc/views/dependency-injection/sample) ([procédure de téléchargement](xref:tutorials/index#how-to-download-a-sample))
 
